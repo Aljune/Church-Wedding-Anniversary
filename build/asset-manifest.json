@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34498ce2.css",
+    "main.js": "/static/js/main.fb674aba.js",
+    "static/js/453.9249cd12.chunk.js": "/static/js/453.9249cd12.chunk.js",
+    "static/media/aljuneandmerry2.mp4": "/static/media/aljuneandmerry2.23aff0c0c3a5009d24e9.mp4",
+    "static/media/17.jpg": "/static/media/17.b4970be5d18af56474f0.jpg",
+    "static/media/18.jpg": "/static/media/18.1827d8f6fb8e5172110c.jpg",
+    "static/media/19.jpg": "/static/media/19.43430cd9a32ec23b9508.jpg",
+    "static/media/14.jpg": "/static/media/14.eb355207d62585ab34f9.jpg",
+    "static/media/1.jpg": "/static/media/1.b50d10841e9d2b21cab9.jpg",
+    "static/media/5.jpg": "/static/media/5.ad527f7787c7ed19eda3.jpg",
+    "static/media/3.jpg": "/static/media/3.b0ce4f8b91df81b90bb5.jpg",
+    "static/media/15.jpg": "/static/media/15.b2244ba05a6a73a842ce.jpg",
+    "static/media/6.jpg": "/static/media/6.e471fc917ece6a4e0b85.jpg",
+    "static/media/4.jpg": "/static/media/4.90934ec82ec9f23f9fd7.jpg",
+    "static/media/9.jpg": "/static/media/9.43592cd1349dacb7bf55.jpg",
+    "static/media/13.jpg": "/static/media/13.215dcee3a7b092533fdb.jpg",
+    "static/media/8.jpg": "/static/media/8.409070757d9741266930.jpg",
+    "static/media/10.jpg": "/static/media/10.8c6a34b5fc2ef9da64df.jpg",
+    "static/media/7.jpg": "/static/media/7.c5d075146d679e47a1e3.jpg",
+    "static/media/11.jpg": "/static/media/11.8af98c065c6e0539489d.jpg",
+    "static/media/2.jpg": "/static/media/2.54cd36654ce2d381ae04.jpg",
+    "static/media/12.jpg": "/static/media/12.ab025d80a74629575680.jpg",
+    "static/media/16.jpg": "/static/media/16.95ec90b6a08e7f3d996a.jpg",
+    "static/media/23.png": "/static/media/23.b667605e3b64d203bf82.png",
+    "static/media/24.png": "/static/media/24.42657680d9cf323db6b8.png",
+    "static/media/wed-bg.png": "/static/media/wed-bg.89f811361c68b9c12676.png",
+    "static/media/22.png": "/static/media/22.bfb746d7a497ec3e29e6.png",
+    "static/media/21.png": "/static/media/21.40f1ef73fa4325f0b36e.png",
+    "static/media/20.png": "/static/media/20.eff97fb48d3e7450df10.png",
+    "index.html": "/index.html",
+    "main.34498ce2.css.map": "/static/css/main.34498ce2.css.map",
+    "main.fb674aba.js.map": "/static/js/main.fb674aba.js.map",
+    "453.9249cd12.chunk.js.map": "/static/js/453.9249cd12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34498ce2.css",
+    "static/js/main.fb674aba.js"
+  ]
+}
