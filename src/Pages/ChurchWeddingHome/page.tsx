@@ -3,7 +3,6 @@ import { useState } from "react";
 import { Button, Card, Dialog, DialogContent, DialogTitle, IconButton, Stack } from "@mui/material";
 import { Heart, Play, ArrowRight, X, ChevronLeft, ChevronRight } from "lucide-react";
 import churchAnniversaryVideo from '../../assets/videos/aljuneandmerry2.mp4';
-import Banner from '../../assets/images/banner/wed-bg.png';
 import cw1 from '../../assets/images/church-wedding/1.jpg';
 import cw2 from '../../assets/images/church-wedding/2.jpg';
 import cw3 from '../../assets/images/church-wedding/3.jpg';
